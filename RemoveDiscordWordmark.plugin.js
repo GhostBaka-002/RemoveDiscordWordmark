@@ -4,7 +4,7 @@ module.exports = (_ => {
 			"name": "RemoveDiscordWordmark",
 			"author": "GhostBaka002",
 			"version": "1.0.0",
-			"description": "I wrote this into my customCss area for BetterDiscord and wanted to see if I could make it work as a plugin"
+			"description": "I wrote this in my customCss area for BetterDiscord and wanted to see if I could make it work as a plugin"
 		}
 	};
 
